@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__
+.idea
+.idea/
+data.json
+db.sqlite3
+#docker/db
+media/
+cert.key
+cert.crt
